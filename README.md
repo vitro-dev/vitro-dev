@@ -5,7 +5,7 @@ Ey! I'm vitro, an 16 y/o programmer and student.
 ```
 
 - 🌱 Actualmente estoy aprendiendo todo lo que puedo. :)
-- 💎 Programo y juego videojuegos en mi tiempo libre, a parte de realizar más de 1 deporte.
+- 💎 Programo y juego videojuegos en mi tiempo libre.
 - ⚡ Dato curioso: Programé un bot de discord y discord me verifico, al mes perdi mi cuenta. <br />
 
 ### Languages and Tools:

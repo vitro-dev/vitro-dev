@@ -20,5 +20,11 @@ Ey! I'm vitro, an 16 y/o programmer and student.
 
 <br />
 
+<div align="left">
+  <a href="https://discord.com/users/214773673163227136">
+    <img src="https://lanyard-profile-readme.vercel.app/api/214773673163227136?animated=true" align="left" height="205">
+  </a>
+</div>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=vitro-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitro-dev&layout=compact&theme=radical)

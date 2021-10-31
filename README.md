@@ -1,8 +1,6 @@
-
-```js
-<Quick Introduction>
-Ey! I'm vitro, an 16 y/o programmer and student.
-```
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/214773673163227136?simple=true)
+![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/214773673163227136) 
+![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/214773673163227136)
 
 - 🌱 Actualmente estoy aprendiendo todo lo que puedo. :)
 - 💎 Programo y juego videojuegos en mi tiempo libre.

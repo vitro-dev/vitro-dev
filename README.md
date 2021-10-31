@@ -15,4 +15,6 @@
 <br />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vitro-dev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitro-dev&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Vitro github stats](https://github-readme-stats.vercel.app/api?username=vitro-dev&hide=["prs","issues"]&show_icons=true&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://vitro-dev.dev/) [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitro-dev&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=vitro-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-chalk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitro-dev&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Vitro github stats](https://github-readme-stats.vercel.app/api?username=vitro-dev&hide=["prs","issues"]&show_icons=true&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://vitro-dev.dev/) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitro-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-chalk)

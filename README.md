@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, HTML5 and CSS3**
 
-- ⚡ Fun fact **I like playing tennis :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
